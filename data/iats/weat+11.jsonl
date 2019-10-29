@@ -1,0 +1,88 @@
+{
+  "targ1": {
+    "category": "MaleNames",
+    "examples": [
+      "John",
+      "Paul",
+      "Mike",
+      "Kevin",
+      "Steve",
+      "Greg",
+      "Jeff",
+      "Bill"
+    ]
+  },
+  "targ2": {
+    "category": "FemaleNames",
+    "examples": [
+      "Amy",
+      "Joan",
+      "Lisa",
+      "Sarah",
+      "Diana",
+      "Kate",
+      "Ann",
+      "Donna"
+    ]
+  },
+  "attr1": {
+    "category": "Pleasant",
+    "examples": [
+      "caress",
+      "freedom",
+      "health",
+      "love",
+      "peace",
+      "cheer",
+      "friend",
+      "heaven",
+      "loyal",
+      "pleasure",
+      "diamond",
+      "gentle",
+      "honest",
+      "lucky",
+      "rainbow",
+      "diploma",
+      "gift",
+      "honor",
+      "miracle",
+      "sunrise",
+      "family",
+      "happy",
+      "laughter",
+      "paradise",
+      "vacation"
+    ]
+  },
+  "attr2": {
+    "category": "Unpleasant",
+    "examples": [
+      "abuse",
+      "crash",
+      "filth",
+      "murder",
+      "sickness",
+      "accident",
+      "death",
+      "grief",
+      "poison",
+      "stink",
+      "assault",
+      "disaster",
+      "hatred",
+      "pollute",
+      "tragedy",
+      "bomb",
+      "divorce",
+      "jail",
+      "poverty",
+      "ugly",
+      "cancer",
+      "evil",
+      "kill",
+      "rotten",
+      "vomit"
+    ]
+  }
+}

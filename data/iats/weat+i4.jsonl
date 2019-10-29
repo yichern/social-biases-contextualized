@@ -1,0 +1,98 @@
+{
+  "targ1": {
+    "category": "WhiteMaleNames",
+    "examples": [
+      "John",
+      "Paul",
+      "Mike",
+      "Kevin",
+      "Steve",
+      "Greg",
+      "Jeff",
+      "Brad",
+      "Brendan",
+      "Geoffrey",
+      "Brett",
+      "Matthew",
+      "Neil"
+    ]
+  },
+  "targ2": {
+    "category": "WhiteFemaleNames",
+    "examples": [
+      "Allison",
+      "Anne",
+      "Carrie",
+      "Emily",
+      "Jill",
+      "Laurie",
+      "Kristen",
+      "Meredith",
+      "Molly",
+      "Amy",
+      "Claire",
+      "Katie",
+      "Madeline"
+    ]
+  },
+  "attr1": {
+    "category": "Pleasant",
+    "examples": [
+      "caress",
+      "freedom",
+      "health",
+      "love",
+      "peace",
+      "cheer",
+      "friend",
+      "heaven",
+      "loyal",
+      "pleasure",
+      "diamond",
+      "gentle",
+      "honest",
+      "lucky",
+      "rainbow",
+      "diploma",
+      "gift",
+      "honor",
+      "miracle",
+      "sunrise",
+      "family",
+      "happy",
+      "laughter",
+      "paradise",
+      "vacation"
+    ]
+  },
+  "attr2": {
+    "category": "Unpleasant",
+    "examples": [
+      "abuse",
+      "crash",
+      "filth",
+      "murder",
+      "sickness",
+      "accident",
+      "death",
+      "grief",
+      "poison",
+      "stink",
+      "assault",
+      "disaster",
+      "hatred",
+      "pollute",
+      "tragedy",
+      "bomb",
+      "divorce",
+      "jail",
+      "poverty",
+      "ugly",
+      "cancer",
+      "evil",
+      "kill",
+      "rotten",
+      "vomit"
+    ]
+  }
+}
